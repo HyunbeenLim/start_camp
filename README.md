@@ -29,3 +29,5 @@ git pull remote_repo_url
 git clone remote_repo_url
 # 강의장 -> 깃헙 -> 집에서 유용함. 모든 기록, 파일 가져와줌
 ```
+
+### 집에서 한다는 가정 실험
